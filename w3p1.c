@@ -4,7 +4,7 @@ int main(){
     printf("Enter Radius of the circle\n");
     scanf("%f",&i);
     r=p*i*i;
-    printf("Area of the circle is %.2f",r);
+    printf("Area of the circle is %2f",r);
     return 0;
 
 }
